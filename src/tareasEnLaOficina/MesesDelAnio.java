@@ -2,7 +2,7 @@ package tareasEnLaOficina;
 
 import java.util.Scanner;
 
-public class tareaSwitch {
+public class MesesDelAnio {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
