@@ -1,4 +1,4 @@
-package tareaSwitch;
+package tareasEnLaOficina;
 
 import java.util.Scanner;
 
