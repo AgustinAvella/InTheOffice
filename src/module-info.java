@@ -6,4 +6,5 @@
  *
  */
 module InTheOffice {
+	requires java.desktop;
 }
